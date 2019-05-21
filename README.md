@@ -8,6 +8,7 @@
 + Объектные файлы и файлы зависимостей помещаются в отдельные папки  
 + Ничего лишнего не перекомпилируется  
 + Докомпилирует `libft` при необходимости
++ Динамически отображает, какой файл компилируется в данный момент
 + Автосоздание author-файла (необходим по правилам школы)
 + Автосоздание .gitignore
 + Возможность легко добавлять необходимые флаги для линковки/компиляции
@@ -24,7 +25,7 @@
 **make opt**
 ![opt](https://raw.githubusercontent.com/liftchampion/Makefile/master/imgs/opt.png)
 
-**dinamic logs**
+**Динамические логи компиляции**
 ![dinamic](https://raw.githubusercontent.com/liftchampion/Makefile/master/imgs/dinamic.png)
 
 **make norm**
